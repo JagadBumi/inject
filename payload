@@ -1,0 +1,9 @@
+{
+    "buffer": 32768,
+    "info": "Python HTTP Injector",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": {
+        "host": "104.18.170.12",
+        "port": 80
+    }
+}
